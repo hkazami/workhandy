@@ -59,3 +59,6 @@ cd ~/.vscode-server/bin/"${commit_sha}"
 ./bin/code-server --install-extension ms-python.python
 ./bin/code-server --install-extension tomoki1207.pdf
 ./bin/code-server --install-extension redhat.vscode-yaml
+
+# Install ipykernel so that VSCode can run ipynb
+pip install -U ipykernel
