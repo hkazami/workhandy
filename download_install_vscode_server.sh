@@ -2,7 +2,7 @@
 set -e
 
 # You can get the latest commit SHA by looking at the latest tagged commit here: https://github.com/microsoft/vscode/releases
-commit_sha="e18005f0f1b33c29e81d732535d8c0e47cafb0b5"  # v1.66.0
+commit_sha="c3511e6c69bb39013c4a4b7b9566ec1ca73fc4d5"  # v1.67.2
 archive="vscode-server-linux-x64.tar.gz"
 owner='microsoft'
 repo='vscode'
